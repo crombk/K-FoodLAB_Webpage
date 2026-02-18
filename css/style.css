@@ -163,6 +163,19 @@ strong {
     color: var(--color-red-primary);
 }
 
+.logo-img {
+    height: 40px;
+    width: auto;
+    display: block;
+    object-fit: contain;
+}
+
+@media (min-width: 768px) {
+    .logo-img {
+        height: 50px;
+    }
+}
+
 .logo-kfood {
     color: var(--color-green-primary);
 }
@@ -1205,6 +1218,11 @@ section {
     font-size: 1.25rem;
     font-weight: var(--font-weight-bold);
     margin-bottom: var(--spacing-sm);
+}
+
+.footer-logo .logo-img {
+    height: 36px;
+    width: auto;
 }
 
 .footer-description {

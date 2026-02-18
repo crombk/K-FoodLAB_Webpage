@@ -176,7 +176,7 @@ K-FoodLAB provides a **"Plug & Play"** instant K-Food solution for retail shops:
 ## 🚨 CRITICAL Action Items (Before Production Launch)
 
 ### 🔴 MUST DO (Blockers)
-1. **❌ No phone number included** (per requirements - email only: kidd.lee@allincarbon.com)
+1. **❌ No phone number included** (per requirements - email only: ray.kim@k-foodlab.com)
 2. **Add Real Logo**: Replace Font Awesome icon with actual PNG/SVG K-FoodLAB logo
 3. **Add Product Images**:
    - LAZO cooking machine (front, side, in-use)
@@ -239,8 +239,8 @@ K-FoodLAB provides a **"Plug & Play"** instant K-Food solution for retail shops:
 ## 📞 Contact Information
 
 ### Business Contact
-- **Email**: kidd.lee@allincarbon.com (primary)
-- **Company**: All-in-Carbon Co., Ltd. (올인카본 주식회사)
+- **Email**: ray.kim@k-foodlab.com (primary)
+- **Company**: K-foodLAB Pty Ltd.
 - **CEO**: Sang-hoon Lee (이상훈)
 - **Location**: Brisbane, Queensland, Australia
 
@@ -376,14 +376,14 @@ All content is based on:
 
 For questions about this website implementation:
 - **Technical Issues**: Review this README and inline code comments
-- **Business Inquiries**: kidd.lee@allincarbon.com
+- **Business Inquiries**: ray.kim@k-foodlab.com
 - **Partnership Questions**: See guide.html for comprehensive FAQ
 
 ---
 
 ## 📄 License
 
-© 2026 All-in-Carbon Co., Ltd. (올인카본 주식회사). All rights reserved.
+© 2026 K-foodLAB Pty Ltd.. All rights reserved.
 
 K-FoodLAB is a registered trademark. Exclusive Australian distribution rights for LAZO Technology, Jangchungdong Wangjokbal, and Barun Beverages.
 

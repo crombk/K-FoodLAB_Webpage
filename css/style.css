@@ -575,6 +575,21 @@ section {
     font-size: 0.875rem;
 }
 
+.package-image {
+    border-radius: var(--radius-lg);
+    overflow: hidden;
+    margin: var(--spacing-md) 0;
+    border: 2px solid var(--color-gray-800);
+}
+
+.package-image img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+    max-height: 300px;
+}
+
 .package-features {
     list-style: none;
     margin: var(--spacing-md) 0;

@@ -1,5 +1,5 @@
 # robots.txt for K-FoodLAB Brisbane
-# https://www.kfoodlab.com.au/robots.txt
+# https://join.k-foodlab.com/robots.txt
 
 User-agent: *
 Allow: /
@@ -13,7 +13,7 @@ Allow: /js/
 Allow: /images/
 
 # Sitemap location
-Sitemap: https://www.kfoodlab.com.au/sitemap.xml
+Sitemap: https://join.k-foodlab.com/sitemap.xml
 
 # Crawl-delay for good behavior (optional)
 # Crawl-delay: 1

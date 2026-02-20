@@ -20,14 +20,6 @@
         <priority>0.9</priority>
     </url>
     
-    <!-- SEO Strategy -->
-    <url>
-        <loc>https://join.k-foodlab.com/seo.html</loc>
-        <lastmod>2026-02-18</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
     <!-- Homepage sections (for better crawling) -->
     <url>
         <loc>https://join.k-foodlab.com/#solution</loc>

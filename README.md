@@ -64,20 +64,6 @@ K-FoodLAB provides a **"Plug & Play"** instant K-Food solution for retail shops:
   - Common troubleshooting guide (accordion format)
   - Ongoing training & updates
 
-### 🔍 SEO Strategy Page (seo.html)
-- **SEO Overview**: 4 pillars (keywords, technical, content, local)
-- **Target Keywords**:
-  - Primary: "K-Food Brisbane", "Korean food retail Brisbane", etc.
-  - Secondary: 10+ supporting keywords
-  - Long-tail: 8+ niche phrases
-- **Technical SEO**: Page speed, mobile-first, site architecture, security
-- **On-Page SEO**: Title tags, meta descriptions, heading structure, image optimization, internal linking
-- **Schema Markup**: Organization, Product, BreadcrumbList, FAQPage (JSON-LD)
-- **Local SEO**: Google Business Profile, local citations, local content, community engagement
-- **Content Strategy**: Educational content, success stories, video content, email marketing
-- **Performance Metrics**: Organic traffic, keyword rankings, conversion rate, technical metrics
-- **Tracking Tools**: Google Analytics 4, Search Console, Business Insights, heatmaps
-
 ### 🎨 Design & Branding
 - **Brand Colors**:
   - Primary Green: #018C43 (K-food)
@@ -117,7 +103,6 @@ K-FoodLAB provides a **"Plug & Play"** instant K-Food solution for retail shops:
 ### ✅ All Pages SEO Complete
 1. **index.html**: Primary landing page optimization
 2. **guide.html**: Partnership guide with breadcrumb schema
-3. **seo.html**: SEO strategy page
 
 ### Meta Tags (All Pages)
 - ✅ Title tags (50-70 characters, keyword-optimized)
@@ -132,8 +117,8 @@ K-FoodLAB provides a **"Plug & Play"** instant K-Food solution for retail shops:
 ### JSON-LD Structured Data (All Pages)
 - ✅ Organization schema (index.html)
 - ✅ Product schema with offers and ratings (index.html)
-- ✅ WebPage schema (guide.html, seo.html)
-- ✅ BreadcrumbList schema (guide.html, seo.html)
+- ✅ WebPage schema (guide.html)
+- ✅ BreadcrumbList schema (guide.html)
 - ✅ FAQPage schema ready (can be added to index.html FAQs)
 
 ### Technical SEO
@@ -160,7 +145,6 @@ K-FoodLAB provides a **"Plug & Play"** instant K-Food solution for retail shops:
 .
 ├── index.html              # Homepage (main landing)
 ├── guide.html              # Partnership guide (operations manual)
-├── seo.html                # SEO strategy page
 ├── css/
 │   └── style.css           # Main stylesheet (33KB)
 ├── js/
